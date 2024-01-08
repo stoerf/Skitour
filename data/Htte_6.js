@@ -1,0 +1,1 @@
+var json_Htte_6 = {"type":"FeatureCollection","name":"Htte_6","crs":{"type":"name","properties":{"name":"urn:ogc:def:crs:OGC:1.3:CRS84"}},"features":[{"type":"Feature","properties":{"Name":"Naviser Hütte","Getraenkeautomat":"JA","Geöffnet":"NEIN","Erfassungsdatum":"2023-12-30T08:58:56.908"},"geometry":{"type":"Point","coordinates":[11.568482008074886,47.141976448836274]}}]}
